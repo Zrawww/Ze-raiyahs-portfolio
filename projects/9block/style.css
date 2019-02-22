@@ -1,0 +1,37 @@
+.row {
+}
+.square {
+  background-color: green;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+margin-right: -5px;
+margin-bottom: -5px;
+}
+.red {
+  background-color: red;
+}
+.indigo {
+  background-color: indigo;
+}
+.orange {
+  background-color: orange;
+}
+.amarine{
+  background-color: aquamarine;
+}
+.blue{
+  background-color: blue;
+}
+.chocolate{
+  background-color: chocolate;
+}
+.yellow{
+  background-color: yellow;
+}
+.pink{
+  background-color: pink;
+}
+.aqua{
+  background-color: aqua;
+}
